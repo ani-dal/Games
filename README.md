@@ -1,2 +1,3 @@
-# Games
+Games
+======
 Just a side project
